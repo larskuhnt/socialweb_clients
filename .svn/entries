@@ -1,23 +1,0 @@
-8
-
-dir
-0
-http://svn.td-solutions.biz/deutschlandtour09/trunk/vendor/plugins/youtube_client
-http://svn.td-solutions.biz/deutschlandtour09
-add
-
-
-
-
-
-has-props
-has-prop-mods
-svn:special svn:externals svn:needs-lock
-
-test
-dir
-
-
-
-add
-
